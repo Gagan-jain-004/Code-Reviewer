@@ -26,7 +26,7 @@ Paste or edit code in the live editor and get an instant review with explanation
 | React Markdown | CORS | — |
 
 ---
-
+```
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the Repository
@@ -34,7 +34,7 @@ Paste or edit code in the live editor and get an instant review with explanation
 ```bash
 git clone https://github.com/Gagan-jain-004/Code-Reviewer
 cd Code-Reviewer
-````
+```
 
 ### 2️⃣ Backend Setup
 
