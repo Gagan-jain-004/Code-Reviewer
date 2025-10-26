@@ -1,7 +1,3 @@
-Perfect 🔥 — here’s a clean, professional **README.md** for your **AI Code Reviewer** project built with React (Vite) + Node.js + OpenAI/Gemini (or similar).
-It includes setup steps, usage guide, folder structure, and example output — all in RTU / college submission–ready style 👇
-
----
 
 ```markdown
 # 🤖 AI Code Reviewer
